@@ -1,4 +1,3 @@
-
 print("what do you want to calculate")
 myTable= {"distance","velocity","time"}
 for k,v in pairs(myTable) do
